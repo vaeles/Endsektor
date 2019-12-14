@@ -28,7 +28,7 @@ int main(int argc, const char* argv[])
 		{
 		//Abfrage Groesse
 		do {
-			cout << "Bitte gib an wie gross deine Partitionen sein soll in GiB: ";
+			cout << "Bitte gib an wie gro\xE1 deine Partitionen sein soll in GiB: ";
 			cin >> part_groesse_gb;
 			system("cls");
 
