@@ -17,7 +17,6 @@ int main(int argc, const char* argv[])
 		int part_fehler2 = 0;
 
 		double startsektor = 0;
-		double startsektor2 = 0;
 		double endsektor = 0;
 		double benoetigtesektoren = 0;
 
